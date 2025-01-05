@@ -1,7 +1,7 @@
 # Stellaris-Traducere-Romana
 Inlocuieste limba engleza cu limba romana in Stellaris.
 
-Traduceri de baza:
+<details><summary>Traduceri de baza:</summary>
 - [ ] achievements_l_english.yml
 - [ ] additional_content_l_english.yml
 - [ ] ai_crisis_l_english.yml
@@ -114,8 +114,9 @@ Traduceri de baza:
 - [ ] utopia_ascension_l_english.yml
 - [ ] utopia_l_english.yml
 - [ ] utopia_megastructures_l_english.yml
+</details>
 
-Traduceri name_lists:
+<details><summary>Traduceri name_lists:</summary>
 - [ ] common_names_l_english.yml
 - [ ] event_names_l_english.yml
 - [ ] initializers_names_l_english.yml
@@ -196,8 +197,9 @@ Traduceri name_lists:
 - [ ] species_02_l_english.yml
 - [ ] species_ascension_names_l_english.yml
 - [ ] species_machine_names_l_english.yml
+</details>
 
-Traduceri random_names:
+<details><summary>Traduceri random_names:</summary>
 - [ ] 00_random_names_l_english.yml
 - [ ] empire_formats_l_english.yml
 - [ ] formats_00_empire_names_l_english.yml
@@ -212,3 +214,4 @@ Traduceri random_names:
 - [ ] name_parts_00_war_names_l_english.yml
 - [ ] pop_faction_formats_l_english.yml
 - [ ] random_names_l_english.yml
+</details>
