@@ -5,11 +5,11 @@
  ####################################
  # Advisor Tutorial Messages
  ####################################
- TUTORIAL_GOVERNMENTVIEW_GOVERNMENT_TITLE:0 "Government"
- TUTORIAL_GOVERNMENTVIEW_GOVERNMENT_DESC:1 "The §SGovernment§! screen presents us with information regarding our empire and its government. Here we can see our §SRuler§! and any related effects.\n\nA separate tab gives information on the §SDemographics§! of our empire."
- TUTORIAL_TECH_VIEW_TITLE:0 "Technology"
- TUTORIAL_TECH_VIEW_DESC:1 "The §STechnology§! screen is where we will be directing our research efforts. Technologies are categorized into three different fields, with each field typically having three available research options.\n\nAssigning a §SHead of Research§! will expedite the progress made. It is not required, but strongly recommended! In addition, the §STraits§! of an assigned leader will often grant other benefits."
- TUTORIAL_CONTACTSVIEW_EMPIRES_TITLE:0 "Contacts"
+ TUTORIAL_GOVERNMENTVIEW_GOVERNMENT_TITLE:0 "Guvern"
+ TUTORIAL_GOVERNMENTVIEW_GOVERNMENT_DESC:1 "Ecranul §SGuvern§! ne prezinta informatii legate de imperiul nostru si guvernul sau. Aici ne putem vedea §SLiderul§! si orice efecte legate de el.\n\nO sectiune separata ne da informatii despre §SDatele Demografice§! ale imperiului nostru."
+ TUTORIAL_TECH_VIEW_TITLE:0 "Tehnologie"
+ TUTORIAL_TECH_VIEW_DESC:1 "Ecranul §STehnologie§! este unde ne vom controla eforturile de cercetare. Tehnologiile sunt impartite in trei domenii, fiecare domeniu avand de obicei trei optiuni de cercetare.\n\nNumirea unui §SSef de Cercetare§! va accelera progresul facut. Nu este necesar, dar este recomandat! De asemenea, §STrasaturile§! unui lider numit va oferi adesea si alte beneficii."
+ TUTORIAL_CONTACTSVIEW_EMPIRES_TITLE:0 "Contacte"
  TUTORIAL_CONTACTSVIEW_EMPIRES_DESC:0 "In the §SContacts§! screen we see a detailed list of all the various §SEmpires§! we have encountered. Their §SOpinions§! of us are visible at a glance, and we can quickly and easily engage in §SDiplomacy§!."
  TUTORIAL_SITUATION_LOG_TITLE:0 "Situation Log"
  TUTORIAL_SITUATION_LOG_DESC:1 "The §SSituation Log§! displays a list of all currently available §SSpecial Projects§!, §SArchaeology sites§!, and various other points of interest. New items will likely appear as we begin exploring the galaxy."
