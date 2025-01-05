@@ -2,6 +2,7 @@
 Inlocuieste limba engleza cu limba romana in Stellaris.
 
 <details><summary>Traduceri de baza:</summary>
+  
 - [ ] achievements_l_english.yml
 - [ ] additional_content_l_english.yml
 - [ ] ai_crisis_l_english.yml
@@ -117,6 +118,7 @@ Inlocuieste limba engleza cu limba romana in Stellaris.
 </details>
 
 <details><summary>Traduceri name_lists:</summary>
+  
 - [ ] common_names_l_english.yml
 - [ ] event_names_l_english.yml
 - [ ] initializers_names_l_english.yml
@@ -200,6 +202,7 @@ Inlocuieste limba engleza cu limba romana in Stellaris.
 </details>
 
 <details><summary>Traduceri random_names:</summary>
+  
 - [ ] 00_random_names_l_english.yml
 - [ ] empire_formats_l_english.yml
 - [ ] formats_00_empire_names_l_english.yml
